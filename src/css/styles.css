@@ -1,7 +1,6 @@
-@import url("./reset.css");
-@import url("./header.css");
-@import url("./gallery.css");
-@import url("./form.css");
+@import url('./reset.css');
+@import url('./header.css');
+@import url('./timer.css');
 
 :root {
   font-family: Montserrat, sans-serif;
